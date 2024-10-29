@@ -1,0 +1,23 @@
+footer {
+    background-color: #0a0f14; 
+  }
+  
+  footer h5, footer h6 {
+    color: #f4e04d; 
+  }
+  
+  footer p, footer a {
+    color: #cccccc; 
+  }
+  
+  footer a:hover {
+    color: #f4e04d; 
+  }
+
+  .fon{
+    font-size: 12px;
+  }
+.yummy{
+    background-color: #0b1d26;
+}
+  
