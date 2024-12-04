@@ -80,7 +80,7 @@ const Header = () => {
     <div className="hiking-gear-section">
       <div className="row">
       
-        <div className="col-md-6">
+        <div className="col-md-6">it it
           <div className="image-container">
             <img
               src={image2} 
